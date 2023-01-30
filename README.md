@@ -1,4 +1,4 @@
-<h1>Hola, soy Darrell, an <a href="https://linkedin.com/in/darrellmm">Software Magician</a>👾</h1>
+<h1>Hola, soy Darrell, a <a href="https://linkedin.com/in/darrellmm">Software Magician</a>👾</h1>
 
 <h2>🦆 Projects:</h2>
 
