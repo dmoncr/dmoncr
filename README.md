@@ -3,7 +3,7 @@
 <h2>🦆 Projects:</h2>
 
 
-<h2>🌐Connect with me:</h2>
+<h2>🌐Click these:</h2>
 
 [<img align="left" alt=" | Twitter" width="32px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-512.png" />][twitter]
 [<img align="left" alt=" | LinkedIn" width="32px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" />][linkedin]
