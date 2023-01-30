@@ -8,6 +8,7 @@
 [<img align="left" alt=" | Twitter" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt=" | LinkedIn" width="32px" src="https://img.icons8.com/fluency/512/linkedin.png" />][linkedin]
 [<img align="left" alt=" | Instagram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt=" | Youtube" width="32px" src="https://img.icons8.com/color/512/youtube-play.png" />][Youtube]
 
 [twitter]: https://twitter.com/whereisdarrelll
 [instagram]: https://www.instagram.com/notdarrelll/
