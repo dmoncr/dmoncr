@@ -1,6 +1,6 @@
 <h1>Hola, soy Darrell, a <a href="https://linkedin.com/in/darrellmm">Software Magician</a>👾</h1>
 
-<h2>🦆 Projects:</h2>
+<!--- <h2>🦆 Projects:</h2> -->
 
 
 <h2>🌐Click these:</h2>
