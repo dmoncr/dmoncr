@@ -11,6 +11,6 @@
 [<img align="left" alt=" | Youtube" width="32px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Youtube_colored_svg-512.png" />][Youtube]
 
 [twitter]: https://twitter.com/
-[instagram]: https://www.instagram.com/notdarrelll/
+[instagram]: https://www.instagram.com/darrellig/
 [linkedin]: https://www.linkedin.com/in/darrellmm/
 [Youtube]: https://www.youtube.com/
