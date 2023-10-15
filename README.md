@@ -1,4 +1,4 @@
-<h1>Hello, I'm <a href="https://linkedin.com/in/darrellmm">Darrell</a>👾</h1>
+<h1>Hello, I'm <a href="https://linkedin.com/in/darrellmm"> Darrell</a>👾</h1>
 
 <!--- <h2>🦆 Projects:</h2> -->
 
